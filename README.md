@@ -1,8 +1,4 @@
 # seasfor.us
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 ![seasforus-poster](https://user-images.githubusercontent.com/55318172/142764894-9d46ecac-f674-4e5d-bae8-fc9a82ecb953.jpg)
 
 Demo video: https://youtu.be/YeefWeSYLUQ

@@ -4,48 +4,6 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "contributors": [
-    {
-      "login": "theodorusclarence",
-      "name": "Theodorus Clarence",
-      "avatar_url": "https://avatars.githubusercontent.com/u/55318172?v=4",
-      "profile": "https://theodorusclarence.com",
-      "contributions": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "login": "rizqitsani",
-      "name": "Muhammad Rizqi Tsani",
-      "avatar_url": "https://avatars.githubusercontent.com/u/68275535?v=4",
-      "profile": "https://github.com/rizqitsani",
-      "contributions": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "login": "ishaqadhel",
-      "name": "ishaqadhel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/49280352?v=4",
-      "profile": "https://ishaqadhel.com",
-      "contributions": [
-        "code",
-        "infra"
-      ]
-    },
-    {
-      "login": "franszhafran",
-      "name": "Muhammad Zhafran",
-      "avatar_url": "https://avatars.githubusercontent.com/u/49693862?v=4",
-      "profile": "https://github.com/franszhafran",
-      "contributions": [
-        "code",
-        "infra"
-      ]
-    }
-  ],
   "contributorsPerLine": 7,
   "projectName": "seasfor.us",
   "projectOwner": "theodorusclarence",

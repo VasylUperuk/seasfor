@@ -61,25 +61,4 @@ This is the first time we are using Auth0 as the authentication provider. Althou
 | ![join](https://user-images.githubusercontent.com/55318172/142764959-78dd5d75-6d91-4ddf-b7d6-c0f1e2519b79.gif) **Join Events** | ![post-activity](https://user-images.githubusercontent.com/55318172/142765024-d4db88ba-030e-44ce-9ccd-6f24f9d4d2b6.gif) **Post Activity** | 
 | ![myevents](https://user-images.githubusercontent.com/55318172/142764930-25be6d52-cbf8-4f7f-9efd-60a7e516ca29.png) **My Events Page** | ![leaderboard](https://user-images.githubusercontent.com/55318172/142764960-466da599-8dce-4269-baa1-cb87be4e76b1.png) **Leaderboard** |
 
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://theodorusclarence.com"><img src="https://avatars.githubusercontent.com/u/55318172?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Theodorus Clarence</b></sub></a><br /><a href="https://github.com/theodorusclarence/seasfor.us/commits?author=theodorusclarence" title="Code">💻</a> <a href="#design-theodorusclarence" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/rizqitsani"><img src="https://avatars.githubusercontent.com/u/68275535?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muhammad Rizqi Tsani</b></sub></a><br /><a href="https://github.com/theodorusclarence/seasfor.us/commits?author=rizqitsani" title="Code">💻</a> <a href="#design-rizqitsani" title="Design">🎨</a></td>
-    <td align="center"><a href="https://ishaqadhel.com"><img src="https://avatars.githubusercontent.com/u/49280352?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ishaqadhel</b></sub></a><br /><a href="https://github.com/theodorusclarence/seasfor.us/commits?author=ishaqadhel" title="Code">💻</a> <a href="#infra-ishaqadhel" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/franszhafran"><img src="https://avatars.githubusercontent.com/u/49693862?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muhammad Zhafran</b></sub></a><br /><a href="https://github.com/theodorusclarence/seasfor.us/commits?author=franszhafran" title="Code">💻</a> <a href="#infra-franszhafran" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

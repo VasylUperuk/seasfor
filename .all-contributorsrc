@@ -1,13 +1,1 @@
-{
-  "files": [
-    "README.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "contributorsPerLine": 7,
-  "projectName": "seasfor.us",
-  "projectOwner": "theodorusclarence",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true
-}
+
